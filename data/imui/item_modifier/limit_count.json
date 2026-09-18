@@ -1,0 +1,6 @@
+{
+    "function": "limit_count",
+    "limit": {
+        "max": 1
+    }
+}

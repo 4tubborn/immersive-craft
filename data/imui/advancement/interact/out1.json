@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "": {
+            "trigger": "player_interacted_with_entity",
+            "conditions": {
+                "entity": {
+                    "type": "interaction",
+                    "nbt": {"Tags": ["imui.out.1"]}
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "imui:interact/out1"
+    }
+}

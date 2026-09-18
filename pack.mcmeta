@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 107,
+    "description": "牛来！",
+    "min_format": 57,
+    "max_format": 107,
+    "supported_formats": {
+      "min_inclusive": 57,
+      "max_inclusive": 107
+    }
+  }
+}
